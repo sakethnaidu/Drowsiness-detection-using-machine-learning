@@ -1,1 +1,3 @@
 # Drowsiness-detection-using-machine-learning
+
+Drowsiness detection using machine learning involves training a model to recognize patterns in physiological signals or behavioral cues that indicate a person is becoming drowsy. This can include analyzing data from sensors such as cameras, electroencephalography (EEG) or electrooculography (EOG) to detect changes in eye movement, facial expressions, and brain activity that are associated with drowsiness. The model can then be used to alert the person or take actions to prevent accidents caused by drowsiness, such as in the case of a driver alert system.
